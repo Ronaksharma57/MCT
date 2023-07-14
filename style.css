@@ -501,11 +501,11 @@ color: #B3B3B3;
         top: 7em;
         bottom:0;
     }
+    
     .button_align{
-        width: 50%;
-       
-        display: flex;
+        display: none
     }
+   
     .button_align .input_hero{
         padding:3px;
         /* margin: 0; */
