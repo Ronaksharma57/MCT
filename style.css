@@ -40,7 +40,7 @@ body{
     margin: auto;
 }
 .nav-header{
-    width: 100%;
+    /* width: 100%; */
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -90,12 +90,20 @@ body{
     /* justify-content: center; */
     /* top: 0; */
     z-index: 1;
+    
+    box-sizing: border-box;
     border-bottom: .7em solid gray;
+
    
 }
 .image_hero1{
     width: 100%;
-    height: 100%;
+    /* height: 100vh; */
+    
+     position: relative;
+     /* height: 50%; */
+
+    /* height: 50vh;  */
     object-fit: cover;
     margin: auto;
 
@@ -107,9 +115,9 @@ body{
     position: absolute;
     /* bottom: 130px; */
     top: 18em;
-    left: 0;
+    /* left: 0;
     right: 0;
-    bottom: 0;
+    bottom: 0; */
     /* left: 10rem;  */
     color: white;
     text-align: center;
@@ -136,7 +144,7 @@ body{
 }
 .input_text{
     width: 24em;
-    height: 4em;
+    /* height: 4em; */
     background-color: black;
     border: 1px solid gray;
     /* background: transparent; */
@@ -177,8 +185,7 @@ body{
 
 .hero_section2{
 position: relative;
-   
-    background-color: black;
+    /* background-color: black; */
     color: white;
     z-index: 10;
     width: 100%;
