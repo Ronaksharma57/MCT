@@ -460,6 +460,7 @@ color: #B3B3B3;
     }
     .main{
         flex-direction: column-reverse;
+          text-align: center;
       
     }
     .section3_container{
