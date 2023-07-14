@@ -39,8 +39,7 @@ You can see a live demo of the project here: https://ronaksharma57.github.io/MCT
 ## Features
 
 - Responsive design: The clone is designed to be responsive and optimized for different screen sizes.
-- Navigation menu: The navigation menu at the top of the page allows users to browse different sections of the website.
-- Hero section: The hero section showcases a background image.
+- Hero section: The hero section showcases a background image with contents.
 - Footer: The footer contains links to different sections of the website and social media links.
 
 ## Usage
