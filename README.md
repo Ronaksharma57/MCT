@@ -32,7 +32,7 @@ You can see a live demo of the project here: https://ronaksharma57.github.io/MCT
 ![Netflix India Clone](Images/netflix_mobile4.png)
 ![Netflix India Clone](Images/netflix_mobile5.png)
 ![Netflix India Clone](Images/netflix_mobile6.png)
-![Netflix India Clone](Images/netflix_mobile1.png)
+![Netflix India Clone](Images/netflix_mobile7.png)
 
 
 
