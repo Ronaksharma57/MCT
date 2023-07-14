@@ -21,8 +21,8 @@ You can see a live demo of the project here: https://ronaksharma57.github.io/MCT
 ![Netflix India Clone](Images/Netflix3.png)
 ![Netflix India Clone](Images/Netflix4.png)
 ![Netflix India Clone](Images/netflix5.png)
-![Netflix India Clone](Images/Netflix6.png)
-![Netflix India Clone](Images/Netflix7.png)
+![Netflix India Clone](Images/netflix6.png)
+![Netflix India Clone](Images/netflix7.png)
 
 ## Screenshots | Mobile screen
 
